@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T18:54:22.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HUfc7-HG2bssHzSEMBG2" version="24.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-25T19:31:36.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="--1jPkrg8Y-KLo8xlLFF" version="24.6.2" type="github" pages="7">
   <diagram name="usecase diagram 1" id="mc8gcB1ZVPnBZrRa7C_h">
     <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -961,7 +961,7 @@
         <mxCell id="BPaxW5iqOlD2x_PIjtHZ-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="BPaxW5iqOlD2x_PIjtHZ-3" source="BPaxW5iqOlD2x_PIjtHZ-13" target="BPaxW5iqOlD2x_PIjtHZ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BPaxW5iqOlD2x_PIjtHZ-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Klik from tambah center point&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-3">
+        <mxCell id="BPaxW5iqOlD2x_PIjtHZ-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Klik from tambah spot&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-3">
           <mxGeometry x="17" y="337" width="82" height="41" as="geometry" />
         </mxCell>
         <mxCell id="BPaxW5iqOlD2x_PIjtHZ-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="BPaxW5iqOlD2x_PIjtHZ-3" source="BPaxW5iqOlD2x_PIjtHZ-16" target="BPaxW5iqOlD2x_PIjtHZ-20">
@@ -1071,7 +1071,7 @@
         <mxCell id="BPaxW5iqOlD2x_PIjtHZ-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="BPaxW5iqOlD2x_PIjtHZ-30" source="BPaxW5iqOlD2x_PIjtHZ-42" target="BPaxW5iqOlD2x_PIjtHZ-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BPaxW5iqOlD2x_PIjtHZ-42" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Data center point&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-30">
+        <mxCell id="BPaxW5iqOlD2x_PIjtHZ-42" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Data spot&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-30">
           <mxGeometry x="108" y="1029" width="82" height="41" as="geometry" />
         </mxCell>
         <mxCell id="BPaxW5iqOlD2x_PIjtHZ-43" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#080808;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-30">
@@ -1086,7 +1086,7 @@
         <mxCell id="BPaxW5iqOlD2x_PIjtHZ-46" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;data tersimpan di database&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-44">
           <mxGeometry x="16" y="485" width="82" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="BPaxW5iqOlD2x_PIjtHZ-47" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ambil data center point&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-44">
+        <mxCell id="BPaxW5iqOlD2x_PIjtHZ-47" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ambil data spot&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-44">
           <mxGeometry x="16" y="411" width="82" height="41" as="geometry" />
         </mxCell>
         <mxCell id="BPaxW5iqOlD2x_PIjtHZ-48" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Data tersimpan di database&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPaxW5iqOlD2x_PIjtHZ-44">
