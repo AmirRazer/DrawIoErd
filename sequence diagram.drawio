@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T21:26:47.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9QbUaMCpwNXHSOcgPxQw" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-02T21:34:52.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="75dMpxZaYUrRHU5jXnsk" version="24.6.4" type="github" pages="4">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -553,18 +553,66 @@
         </mxCell>
         <mxCell id="pVNr0oau-Pk0-2kPRTYr-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410.17" y="769" as="sourcePoint" />
+            <mxPoint x="410" y="844" as="sourcePoint" />
             <mxPoint x="410.17" y="719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVNr0oau-Pk0-2kPRTYr-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-66" y="757" width="10" height="80" as="geometry" />
+          <mxGeometry x="-66" y="757" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="pVNr0oau-Pk0-2kPRTYr-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="159.5" y="757" width="10" height="80" as="geometry" />
+          <mxGeometry x="159.5" y="757" width="10" height="243" as="geometry" />
         </mxCell>
         <mxCell id="pVNr0oau-Pk0-2kPRTYr-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="406" y="757" width="10" height="80" as="geometry" />
+          <mxGeometry x="406" y="846" width="10" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-52" value="Tekan tombol hapus" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-56.5" y="768" as="sourcePoint" />
+            <mxPoint x="158.5" y="768" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-54" value="Pesan Konfirmasi" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="804" as="sourcePoint" />
+            <mxPoint x="-56" y="804" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-55" value="Setuju" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-56.5" y="845" as="sourcePoint" />
+            <mxPoint x="158.5" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-56" value="Mengirim data" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="171" y="868" as="sourcePoint" />
+            <mxPoint x="406" y="868" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="411" y="904" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-59" value="Delete()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="pVNr0oau-Pk0-2kPRTYr-58" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="884" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="446" y="914" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-61" value="Memperbarui data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="947" as="sourcePoint" />
+            <mxPoint x="174" y="947" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-62" value="Menampilkan data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="975" as="sourcePoint" />
+            <mxPoint x="-56" y="975" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
