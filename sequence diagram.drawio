@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T20:27:24.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hbgjK7M7w2uBsgnKmzOv" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-02T20:37:32.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hwN5DVTMUaO4rlPIxu7m" version="24.6.4" type="github" pages="4">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -344,6 +344,30 @@
         </mxCell>
         <mxCell id="VGkt6wchPl6ECwU7rgHM-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="406" y="119" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-1" value="Memilih menu Center Point" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="VGkt6wchPl6ECwU7rgHM-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-55" y="142" as="sourcePoint" />
+            <mxPoint x="25" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-2" value="Get Data Ceter point" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="VGkt6wchPl6ECwU7rgHM-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="171" y="163" as="sourcePoint" />
+            <mxPoint x="251" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-3" value="Menampilkan data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;entryX=1.1;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VGkt6wchPl6ECwU7rgHM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="193" as="sourcePoint" />
+            <mxPoint x="324" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="r1aBjmi0Clw_CfbHowpB-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="306" as="sourcePoint" />
+            <mxPoint x="-61" y="255" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
