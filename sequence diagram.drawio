@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T20:37:32.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hwN5DVTMUaO4rlPIxu7m" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-02T21:11:53.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OxjKX9GpbtH1e_ZUDAA7" version="24.6.4" type="github" pages="4">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -334,16 +334,16 @@
           <mxGeometry x="361" y="52" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r1aBjmi0Clw_CfbHowpB-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-66" y="123" width="10" height="80" as="geometry" />
+          <mxGeometry x="-66" y="123" width="10" height="124" as="geometry" />
         </mxCell>
         <mxCell id="VGkt6wchPl6ECwU7rgHM-1" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-111" y="93" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VGkt6wchPl6ECwU7rgHM-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="160" y="121" width="10" height="80" as="geometry" />
+          <mxGeometry x="160" y="121" width="10" height="134" as="geometry" />
         </mxCell>
         <mxCell id="VGkt6wchPl6ECwU7rgHM-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="406" y="119" width="10" height="80" as="geometry" />
+          <mxGeometry x="406" y="119" width="10" height="136" as="geometry" />
         </mxCell>
         <mxCell id="pVNr0oau-Pk0-2kPRTYr-1" value="Memilih menu Center Point" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="VGkt6wchPl6ECwU7rgHM-2">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -355,18 +355,100 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="171" y="163" as="sourcePoint" />
             <mxPoint x="251" y="163" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVNr0oau-Pk0-2kPRTYr-3" value="Menampilkan data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;entryX=1.1;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VGkt6wchPl6ECwU7rgHM-2">
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-3" value="Mengirim data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404" y="193" as="sourcePoint" />
-            <mxPoint x="324" y="193" as="targetPoint" />
+            <mxPoint x="404" y="216" as="sourcePoint" />
+            <mxPoint x="175" y="216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVNr0oau-Pk0-2kPRTYr-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="r1aBjmi0Clw_CfbHowpB-2">
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="306" as="sourcePoint" />
-            <mxPoint x="-61" y="255" as="targetPoint" />
+            <mxPoint x="-61.499999999999886" y="247" as="sourcePoint" />
+            <mxPoint x="-61.5" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-6" value="Menampilkan data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="r1aBjmi0Clw_CfbHowpB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="233" as="sourcePoint" />
+            <mxPoint x="78" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.5000000000001" y="255" as="sourcePoint" />
+            <mxPoint x="164.5" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410.5000000000001" y="255" as="sourcePoint" />
+            <mxPoint x="410.5" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-66.5" y="259" width="10" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="267" width="10" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="406" y="344" width="10" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-14" value="Tekan tambah data" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-56.5" y="273" as="sourcePoint" />
+            <mxPoint x="158.5" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-15" value="Menampilkan form tambah" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="157.5" y="306.58" as="sourcePoint" />
+            <mxPoint x="-56.5" y="306.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-16" value="Menambahkan Center Point" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-55" y="349" as="sourcePoint" />
+            <mxPoint x="160" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-19" value="Menggirim Data centerpoint" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="171" y="364" as="sourcePoint" />
+            <mxPoint x="406" y="364" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="411" y="384" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-21" value="Create()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="pVNr0oau-Pk0-2kPRTYr-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="364" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="446" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-22" value="Memperbarui data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="415" as="sourcePoint" />
+            <mxPoint x="172" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-24" value="Menampilkan data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="436" as="sourcePoint" />
+            <mxPoint x="-56" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-61" y="515" as="sourcePoint" />
+            <mxPoint x="-40" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
