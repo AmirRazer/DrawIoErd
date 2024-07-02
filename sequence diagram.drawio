@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T21:12:23.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YL6n63tyT0ggAIuN6jOW" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-02T21:25:49.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kmaqIEMwugfwbrZtLHNF" version="24.6.4" type="github" pages="4">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qPPrlCTVvPCPeglbDHnX" name="Center Point">
-    <mxGraphModel dx="854" dy="264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,22 +445,116 @@
             <mxPoint x="-56" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVNr0oau-Pk0-2kPRTYr-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-9">
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pVNr0oau-Pk0-2kPRTYr-28" target="pVNr0oau-Pk0-2kPRTYr-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-61" y="515" as="sourcePoint" />
             <mxPoint x="-40" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVNr0oau-Pk0-2kPRTYr-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pVNr0oau-Pk0-2kPRTYr-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="164.71" y="517" as="sourcePoint" />
             <mxPoint x="164.71" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVNr0oau-Pk0-2kPRTYr-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pVNr0oau-Pk0-2kPRTYr-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="411" y="517" as="sourcePoint" />
             <mxPoint x="411" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-66" y="475" width="10" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="159.71" y="477" width="10" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="517" as="sourcePoint" />
+            <mxPoint x="411" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="406" y="501" width="10" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-32" value="Tekan tombol edit&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-56.5" y="488" as="sourcePoint" />
+            <mxPoint x="158.5" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-35" value="Get data by id" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="171" y="510" as="sourcePoint" />
+            <mxPoint x="406" y="510" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-36" value="Mengirim data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="549" as="sourcePoint" />
+            <mxPoint x="173" y="549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-37" value="Menampilkan form ubah" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="582" as="sourcePoint" />
+            <mxPoint x="-56" y="582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-38" value="Edit Center point" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-56" y="621" as="sourcePoint" />
+            <mxPoint x="159" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-41" value="Mengirim data baru" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="169.5" y="642" as="sourcePoint" />
+            <mxPoint x="404.5" y="642" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="411" y="669" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-43" value="Update()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="pVNr0oau-Pk0-2kPRTYr-42" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="649" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="446" y="679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-44" value="Memperbarui data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="688.58" as="sourcePoint" />
+            <mxPoint x="170" y="688.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-45" value="Menampilkan data center point" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.5" y="705" as="sourcePoint" />
+            <mxPoint x="-54.5" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="pVNr0oau-Pk0-2kPRTYr-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-61" y="764" as="sourcePoint" />
+            <mxPoint x="-23" y="766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.08" y="764" as="sourcePoint" />
+            <mxPoint x="164.08" y="714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVNr0oau-Pk0-2kPRTYr-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410.17" y="769" as="sourcePoint" />
+            <mxPoint x="410.17" y="719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
