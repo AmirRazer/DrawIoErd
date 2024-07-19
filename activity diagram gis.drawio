@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T03:00:05.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZdvB0NWpNbAPLyR7Ig_M" version="24.7.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-07-19T03:02:10.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hg90hnKf5nPmLnyITWOT" version="24.7.1" type="github" pages="13">
   <diagram name="usecase diagram 1" id="mc8gcB1ZVPnBZrRa7C_h">
     <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2536,6 +2536,9 @@
         <mxCell id="RkervV9CW1tgBksRJldE-17" value="Tambah data spot umkm" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="798" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RkervV9CW1tgBksRJldE-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RkervV9CW1tgBksRJldE-19" target="RkervV9CW1tgBksRJldE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RkervV9CW1tgBksRJldE-19" value="Tampilkan form tambah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="905" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2544,6 +2547,9 @@
         </mxCell>
         <mxCell id="RkervV9CW1tgBksRJldE-20" value="Data Umkm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="704" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RkervV9CW1tgBksRJldE-24" value="Input data spot" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1018" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
