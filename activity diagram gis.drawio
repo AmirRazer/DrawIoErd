@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T01:55:37.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SbcwrI7JgS7Zq0UWer1j" version="24.7.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-07-20T01:56:24.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZUR6ncBrG3CrW-6_ZHsB" version="24.7.2" type="github" pages="13">
   <diagram name="usecase diagram 1" id="mc8gcB1ZVPnBZrRa7C_h">
     <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2593,8 +2593,14 @@
         <mxCell id="xAFXntuA4fKrYJ2NOl2B-14" value="Klik simpan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-21" y="1135" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xAFXntuA4fKrYJ2NOl2B-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xAFXntuA4fKrYJ2NOl2B-17" target="xAFXntuA4fKrYJ2NOl2B-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xAFXntuA4fKrYJ2NOl2B-17" value="Edit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508" y="870" width="80" height="80" as="geometry" />
+          <mxGeometry x="507" y="878" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xAFXntuA4fKrYJ2NOl2B-19" value="Edit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="634" y="923" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
