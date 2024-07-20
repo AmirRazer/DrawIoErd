@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T02:12:14.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="e2flRJe73c6mzLz5AGKz" version="24.7.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-07-20T02:12:44.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VzWKuLlrdoUlwtGbj22Y" version="24.7.2" type="github" pages="14">
   <diagram name="usecase diagram 1" id="mc8gcB1ZVPnBZrRa7C_h">
     <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2673,6 +2673,14 @@
         <mxCell id="xAFXntuA4fKrYJ2NOl2B-49" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="473" width="120" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4ge5t6wwdgWe7WINxURX" name="white box tampil peta">
+    <mxGraphModel dx="794" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
