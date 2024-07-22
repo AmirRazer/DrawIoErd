@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T06:59:21.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fyWlwOnHuW0kdXZEVh1T" version="24.7.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-22T07:39:44.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HikTY-53C0kv2J6QRlCt" version="24.7.1" type="github" pages="6">
   <diagram name="Content" id="f7XQAQjgaxRk4_6OhgAi">
     <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,6 +155,35 @@
         </mxCell>
         <mxCell id="6gO9DEsFpCz3ndH-fuXa-3" value="&lt;font color=&quot;#808080&quot;&gt;confirm password&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="gUZIrhUmOIKdxBE50Cx3-1">
           <mxGeometry x="132" y="216.5" width="139" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Salinan Register" id="MbfWHd6FTt93z7Zughus">
+    <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nn8XPeKLdSFHiaht5QUj-0" />
+        <mxCell id="nn8XPeKLdSFHiaht5QUj-1" parent="nn8XPeKLdSFHiaht5QUj-0" />
+        <mxCell id="nn8XPeKLdSFHiaht5QUj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-110" y="28" width="628" height="379" as="geometry" />
+        </mxCell>
+        <mxCell id="a8RWEydMX0pZzd8H1aWG-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-110" y="28" width="129" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="a8RWEydMX0pZzd8H1aWG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="19" y="91" width="499" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="a8RWEydMX0pZzd8H1aWG-2" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="46" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8RWEydMX0pZzd8H1aWG-3" value="gis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="80" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8RWEydMX0pZzd8H1aWG-4" value="&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-40" y="80" width="40" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="8P184XaZ_-WJ3Grp4Z0O-0" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-79" y="100" width="89" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
