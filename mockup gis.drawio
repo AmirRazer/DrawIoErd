@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T07:44:28.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YDLzTniPciq2g4pM5aUQ" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-22T07:50:17.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S57-1fLNGX08cwTLwpTD" version="24.7.1" type="github" pages="6">
   <diagram name="Content" id="f7XQAQjgaxRk4_6OhgAi">
     <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,14 +176,53 @@
         <mxCell id="a8RWEydMX0pZzd8H1aWG-2" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
           <mxGeometry x="-90" y="46" width="89" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a8RWEydMX0pZzd8H1aWG-3" value="Dropdown Opsion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+        <mxCell id="a8RWEydMX0pZzd8H1aWG-3" value="Dropdown&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
           <mxGeometry x="-90" y="80" width="89" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8P184XaZ_-WJ3Grp4Z0O-0" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
-          <mxGeometry x="-80" y="100" width="89" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="8P184XaZ_-WJ3Grp4Z0O-1" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
-          <mxGeometry x="-90" y="126" width="89" height="20" as="geometry" />
+          <mxGeometry x="-90" y="100" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-0" value="&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=90;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-43" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-2" value="Dropdown&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="139" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-3" value="Center Point" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="159" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-4" value="&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=90;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-41" y="134" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-5" value="Spot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="179" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-6" value="Kabupaten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="199" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-7" value="Kecamatan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="219" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-8" value="Kategori" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="239" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-9" value="Detail Kategori" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="259" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-10" value="Setting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="295" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-11" value="Manage akun" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="-90" y="326" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-13" value="Jumlah umkm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="44" y="46" width="83" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-14" value="Jumlah Kategori" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="215" y="46" width="83" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="LoC619oY_cGadyAfnN1M-15" value="Jumlah Akun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nn8XPeKLdSFHiaht5QUj-1">
+          <mxGeometry x="385" y="47" width="83" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
