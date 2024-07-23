@@ -1,4 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T11:23:34.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7kcwO1GCHE5O9r15EiZX" version="24.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-23T11:32:35.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="P7WSGnZnLzcNX3UZLPKX" version="24.7.3" type="github" pages="2">
+  <diagram id="LZ50zydyv87gXtOMJWqW" name="Landing Page">
+    <mxGraphModel dx="1194" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PJM-fglSmpgaaB1tHgW_-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Login register" id="tiM0ZnuD2JS_XEaEvP2C">
     <mxGraphModel dx="1134" dy="1060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,17 +91,6 @@
         </mxCell>
         <mxCell id="gOEI3SyYKZK8qIOfMstI-11" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="332" y="1058" width="80" height="80" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="LZ50zydyv87gXtOMJWqW" name="Halaman-2">
-    <mxGraphModel dx="794" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="pQKMFuD0Nh1s5KrlMjlW-1" value="Peta Umkm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="126" y="101" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
