@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T11:54:44.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="txDV22J_3caGHxA8fUYM" version="24.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-23T11:59:35.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0QFBE1LeQyEF58RD-jV0" version="24.7.3" type="github" pages="3">
   <diagram id="LZ50zydyv87gXtOMJWqW" name="Landing Page">
     <mxGraphModel dx="1534" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,6 +237,14 @@
         <mxCell id="gOEI3SyYKZK8qIOfMstI-10" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="332" y="879" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Rv91tXdTWfSMld0l3tg9" name="Halaman-3">
+    <mxGraphModel dx="794" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
