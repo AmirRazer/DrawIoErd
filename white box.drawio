@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Login register" id="tiM0ZnuD2JS_XEaEvP2C">
-    <mxGraphModel dx="1588" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="576" y="513" />
-              <mxPoint x="491" y="510" />
+              <mxPoint x="490" y="511" />
               <mxPoint x="487" y="919" />
             </Array>
           </mxGeometry>
@@ -211,10 +211,11 @@
         <mxCell id="gOEI3SyYKZK8qIOfMstI-9" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="332" y="709" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="koCPchFp3V72hZKwxLOj-2" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gOEI3SyYKZK8qIOfMstI-9" target="gOEI3SyYKZK8qIOfMstI-6" edge="1">
+        <mxCell id="koCPchFp3V72hZKwxLOj-2" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gOEI3SyYKZK8qIOfMstI-9" target="gOEI3SyYKZK8qIOfMstI-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="112" y="749" />
+              <mxPoint x="47" y="749" />
+              <mxPoint x="47" y="164" />
             </Array>
           </mxGeometry>
         </mxCell>
